@@ -1,0 +1,11 @@
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\gmich\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
