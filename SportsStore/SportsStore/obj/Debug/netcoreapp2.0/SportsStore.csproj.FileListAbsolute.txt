@@ -14,7 +14,6 @@ C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsS
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
-C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
 C:\Users\Michal\Documents\Visual Studio 2017\Projects\ASP.NET-Core-MVC-2-SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
